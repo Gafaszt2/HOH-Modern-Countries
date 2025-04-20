@@ -360,7 +360,7 @@
 		"outerColor": [43, 107, 19],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Patience",
-		"uniques":["Double quantity of [Iron] produced","[+1 Faith] from every [Temple]","[+1 Gold] from every [Oil]"],
+		"uniques":["Double quantity of [Oil] produced","[+1 Faith] from every [Temple]","[+1 Gold] from every [Oil]"],
 		"cities": ["Riyadh", "Jeddah", "Mecca", "Medina", "Dammam", "Khobar", "Taif", "Tabuk", "Abha", "Najran"]
 	},
 	{
@@ -466,5 +466,510 @@
 		"uniqueName": "Fraudulent Industrialist",
 		"uniques":["[+1 Production] from every [Factory]","[+5]% growth [in all cities]","[+1 Food] from [Cattle] tiles [in all cities]"],
 		"cities": ["Buenos Aires","Córdoba","Rosario","Mendoza","La Plata","San Miguel de Tucumán","Salta","Santa Fe","San Juan","Resistencia","Neuquén","Posadas","Mar del Plata","San Fernando del Valle de Catamarca","Ushuaia"]
-	}
+	},
+	/// MORE CONTENT
+	{
+		"name": "Azerbaijan",
+		"leaderName": "Ilham Aliyev",
+		"adjective": ["Azerbaijan"],
+		"startBias": ["Hill","Forest","Mountain"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle",
+		"attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.",
+		"defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.",
+		"introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering",
+
+		"neutralHello": "Greetings. I hope this conversation brings mutual understanding and cooperation.",
+		"hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.",
+
+		"tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [0, 163, 65],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Oil & Silk Road",
+		"uniques":["[+2 Culture] in cities on [Hill] tiles","[+2 Gold] in cities on [Hill] tiles","[+1 Gold] from all [Market] buildings"],
+		"cities": ["Baku", "Ganja", "Sumqayit", "Mingachevir", "Lankaran", "Nakhchivan", "Shaki", "Shirvan", "Khachmaz", "Gabala"]
+	},
+	{
+		"name": "Armenia",
+		"leaderName": "Nikol Pashinyan",
+		"adjective": ["Armenia"],
+		"startBias": ["Hill","Mountain"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle",
+		"attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.",
+		"defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.",
+		"introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering",
+
+		"neutralHello": "Greetings. I hope this conversation brings mutual understanding and cooperation.",
+		"hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.",
+
+		"tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [237, 17, 68],
+		"innerColor": [255, 237, 176],
+		"uniqueName": "Highland Resilience",
+		"uniques":["[+2 Culture] in cities on [Hill] tiles","[+1] Movement <for [Infantry] units>","[+15]% Strength <when fighting in [Rough terrain] tiles>"],
+		"cities": ["Yerevan", "Gyumri", "Vanadzor", "Vagharshapat", "Hrazdan", "Abovyan", "Artashat", "Armavir", "Ijevan", "Goris"]
+	},
+	{
+		"name": "Philippines",
+		"leaderName": "Ferdinand Marcos Jr",
+		"adjective": ["Philippines"],
+		"startBias": ["Coast","Tropical","Jungle"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [54, 52, 42],
+		"innerColor": [255, 248, 201],
+		"uniqueName": "Pearl of Orient Seas",
+		"uniques":["[+2 Gold] in cities on [Tropical] tiles","[+2 Gold] in cities on [Jungle] tiles","[+1 Food] from every [Fish Trap]"],
+		"cities": ["Manila", "Quezon City", "Cebu", "Davao", "Iloilo", "Bacolod", "Baguio", "Zamboanga", "Cagayan de Oro", "Angeles"]
+	},
+	{
+		"name": "Mongolia",
+		"leaderName": "Ukhnaagiin Khürelsükh",
+		"adjective": ["Mongolia"],
+		"startBias": ["Tundra","Desert"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [107, 52, 62],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Golden Horde Legacy",
+		"uniques":["Double quantity of [Horses] produced","[+1] Movement <for [Heavy Cavalry] units>","[+1] Movement <for [Light Cavalry] units>","[+25]% Strength <for [Light Cavalry] units>","[+25]% Strength <for [Heavy Cavalry] units>"],
+		"cities": ["Ulaanbaatar", "Erdenet", "Darkhan", "Khovd", "Choibalsan", "Murun", "Sainshand", "Bayankhongor", "Tsetserleg", "Mandalgovi"]
+	},
+	{
+		"name": "Iran",
+		"leaderName": "Ebrahim Raisi",
+		"adjective": ["Iran"],
+		"startBias": ["Hill","Plains","Coast"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [217, 213, 189],
+		"innerColor": [31, 30, 28],
+		"uniqueName": "Persian Endurance",
+		"uniques":["[+150]% Golden Age length","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Tehran", "Isfahan", "Shiraz", "Mashhad", "Tabriz", "Qom", "Kerman", "Yazd", "Ahvaz", "Rasht"]
+	},
+	{
+		"name": "Iraq",
+		"leaderName": "Mohammed Shia' Al Sudani",
+		"adjective": ["Iraq"],
+		"startBias": ["Plains","Hill"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [217, 208, 195],
+		"innerColor": [186, 9, 0],
+		"uniqueName": "Mesopotamian Revival",
+		"uniques":["[+1 Food] from every [Animal Pen]","[+1 Food] from every [Crop Field]"],
+		"cities": ["Baghdad", "Mosul", "Basra", "Erbil", "Najaf", "Karbala", "Kirkuk", "Sulaymaniyah", "Tikrit", "Fallujah"]
+	},
+	{
+		"name": "Afghanistan",
+		"leaderName": "Hibatullah Akhundzada",
+		"adjective": ["Afghanistan"],
+		"startBias": ["Plains","Mountain"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [219, 218, 215],
+		"innerColor": [28, 28, 28],
+		"uniqueName": "Mountain Fortress",
+		"uniques":["[+2 Production] in cities on [Hill] tiles","[+2 Faith] from every [Temple]"],
+		"cities": ["Kabul", "Herat", "Kandahar", "Mazar-i-Sharif", "Jalalabad", "Ghazni", "Kunduz", "Bamyan", "Farah", "Khost"]
+	},
+	//// SECOND ALLIANCE
+	{
+		"name": "Finland",
+		"leaderName": "Hibatullah Akhundzada",
+		"adjective": ["Finland"],
+		"startBias": ["Snow","Tundra"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [12, 41, 171],
+		"uniqueName": "Sisu",
+		"uniques":["[+2 Culture] in cities on [Forest] tiles","[+2 Food] in cities on [Tundra] tiles","[+2 Food] in cities on [Snow] tiles","[+2 Food] in cities on [Forest] tiles"],
+		"cities": ["Helsinki", "Espoo", "Tampere", "Turku", "Oulu", "Jyväskylä", "Lahti", "Kuopio", "Vaasa", "Rovaniemi"]
+	},
+	{
+		"name": "Norway",
+		"leaderName": "Jonas Gahr Støre",
+		"adjective": ["Norway"],
+		"startBias": ["Forest","Coast"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [255, 77, 77],
+		"innerColor": [41, 10, 10],
+		"uniqueName": "Viking Heritage",
+		"uniques":["[+200]% Yield from pillaging tiles","[+100]% Health from pillaging tiles","[+2]% growth [in all cities]"],
+		"cities": ["Oslo", "Bergen", "Trondheim", "Stavanger", "Tromsø", "Kristiansand", "Ålesund", "Bodø", "Fredrikstad", "Lillehammer"]
+	},
+	{
+		"name": "Iceland",
+		"leaderName": "Bjarni Benediktsson",
+		"adjective": ["Iceland"],
+		"startBias": ["Snow","Coast"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [87, 87, 255],
+		"innerColor": [247, 247, 255],
+		"uniqueName": "Land of Fire and Ice",
+		"uniques":["[+2 Science] in cities on [Snow] tiles","[+2 Culture] in cities on [Snow] tiles",
+	               "[+1 Science] in cities on [Tundra] tiles","[+1 Culture] in cities on [Tundra] tiles"],
+		"cities": ["Reykjavik", "Akureyri", "Keflavik", "Selfoss", "Ísafjörður", "Egilsstaðir", "Húsavík", "Vestmannaeyjar", "Seyðisfjörður", "Grindavík"]
+	},
+	{
+		"name": "Denmark",
+		"leaderName": "Mette Frederiksen",
+		"adjective": ["Denmark"],
+		"startBias": ["Coast","Tundra","Forest"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [22, 22, 36],
+		"innerColor": [250, 245, 207],
+		"uniqueName": "Nordic Trade Empire",
+		"uniques":["Gifts of Gold to City-States generate [+50]% more Influence","[+2 Gold] from every [Market]"],
+		"cities": ["Copenhagen", "Aarhus", "Odense", "Aalborg", "Esbjerg", "Randers", "Kolding", "Horsens", "Vejle", "Roskilde"]
+	},
+	{
+		"name": "Sweden",
+		"leaderName": "Ebba Busch",
+		"adjective": ["Sweden"],
+		"startBias": ["Forest","Tundra"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [26, 36, 120],
+		"innerColor": [255, 239, 128],
+		"uniqueName": "Scandinavian Diplomacy",
+		"uniques":["Gifts of Gold to City-States generate [+65]% more Influence","[+2 Production] from every [Wood Factory]"],
+		"cities": ["Stockholm", "Gothenburg", "Malmö", "Uppsala", "Västerås", "Örebro", "Linköping", "Helsingborg", "Jönköping", "Lund"]
+	},
+	/// THIRD GAY MOMENT
+	{
+		"name": "Morocco",
+		"leaderName": "Aziz Akhannouch",
+		"adjective": ["Morocco"],
+		"startBias": ["Desert","Plains","Hill"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [128, 0, 8],
+		"innerColor": [145, 247, 134],
+		"uniqueName": "Desert Trade Routes",
+		"uniques":["[+2 Gold] from every specialist [in all cities]","[+10]% [Gold] [in all cities]","[+2 Gold] from each Trade Route"],
+		"cities": ["Rabat", "Casablanca", "Marrakech", "Fes", "Tangier", "Agadir", "Meknes", "Oujda", "Tetouan", "Essaouira"]
+	},
+	{
+		"name": "Algeria",
+		"leaderName": "Abdelmadjid Tebboune",
+		"adjective": ["Algeria"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [60, 171, 43],
+		"uniqueName": "Sands of Resistance",
+		"uniques":["[+15]% Strength <when fighting in [Friendly Land] tiles>","[+25]% Strength <when fighting in [Desert] tiles>"],
+		"cities": ["Algiers", "Oran", "Constantine", "Annaba", "Tlemcen", "Setif", "Bejaia", "Blida", "Batna", "Ghardaia"]
+	},
+	{
+		"name": "Libya",
+		"leaderName": "Mohamed Yunus al-Menfi",
+		"adjective": ["Libya"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [28, 28, 28],
+		"innerColor": [212, 212, 212],
+		"uniqueName": "Oil Riches",
+		"uniques":["[+2 Gold, +2 Production] from [Oil] tiles [in all cities]","Double quantity of [Oil] produced"],
+		"cities": ["Tripoli", "Benghazi", "Misrata", "Sabha", "Sirte", "Derna", "Zawiya", "Tobruk", "Ghadames", "Murzuq"]
+	},
+	{
+		"name": "Egypt",
+		"leaderName": "Abdel Fattah el-Sisi",
+		"adjective": ["Egypt"],
+		"startBias": ["Desert","River"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [238, 252, 144],
+		"innerColor": [69, 44, 84],
+		"uniqueName": "Legacy of the Pharaohs",
+		"uniques":["[+1 Food] from [River] tiles [in all cities]","[+2 Culture] from every [Wonder]"],
+		"cities": ["Cairo", "Alexandria", "Giza", "Luxor", "Aswan", "Port Said", "Suez", "Ismailia", "Sharm el-Sheikh", "Hurghada"]
+	},
+	{
+		"name": "Ethiopia",
+		"leaderName": "Abiy Ahmed",
+		"adjective": ["Ethiopia"],
+		"startBias": ["Hill","Mountain","Plains"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [240, 215, 125],
+		"innerColor": [25, 36, 19],
+		"uniqueName": "Highland Defenders",
+		"uniques":["[+10]% Strength <for [Infantry] units>","[+15]% Strength <when fighting in [Hill] tiles>","[+1 Faith] from every [Monument]"],
+		"cities": ["Addis Ababa", "Gondar", "Mekelle", "Dire Dawa", "Bahir Dar", "Harar", "Hawassa", "Jimma", "Dessie", "Adama"]
+	},
+	{
+		"name": "Somalia",
+		"leaderName": "Hassan Sheikh Mohamud",
+		"adjective": ["Somalia"],
+		"startBias": ["Desert","Coast"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [49, 131, 189],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Maritime Traders",
+		"uniques":["[+10]% Strength <for [Water] units>","[+2 Gold] from every [Fish Trap]"],
+		"cities": ["Mogadishu", "Hargeisa", "Kismayo", "Berbera", "Bosaso", "Garowe", "Beledweyne", "Galkayo", "Jowhar", "Bardera"]
+	},
+	{
+		"name": "Nigeria",
+		"leaderName": "Bola Tinubu",
+		"adjective": ["Nigeria"],
+		"startBias": ["Jungle","Plains"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [36, 107, 59],
+		"innerColor": [194, 255, 214],
+		"uniqueName": "Economic Powerhouse",
+		"uniques":["Double quantity of [Oil] produced","[+2 Gold] from every [Jungle]","[+2 Gold] from every [Mine]"],
+		"cities": ["Lagos", "Abuja", "Kano", "Ibadan", "Port Harcourt", "Benin City", "Kaduna", "Enugu", "Maiduguri", "Jos"]
+	},
+	{
+		"name": "Democratic Republic of Congo",
+		"leaderName": "Félix Tshisekedi",
+		"adjective": ["Democratic Republic of Congo"],
+		"startBias": ["Jungle","River"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [18, 83, 163],
+		"innerColor": [208, 189, 252],
+		"uniqueName": "Jungle Riches",
+		"uniques":["[+2 Food] from every [Jungle]","[+1 Gold] from every [Jungle]","[+1 Culture] from every [Jungle]"],
+		"cities": ["Kinshasa", "Lubumbashi", "Kisangani", "Goma", "Bukavu", "Kananga", "Mbandaka", "Matadi", "Kolwezi", "Beni"]
+	},
+	{
+		"name": "Kenya",
+		"leaderName": "William Ruto",
+		"adjective": ["Kenya"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [255, 21, 0],
+		"innerColor": [23, 2, 0],
+		"uniqueName": "Safari Economy",
+		"uniques":["[+2 Gold] from every [Animal Pen]","[+2 Gold] from every [Elephant]"],
+		"cities": ["Nairobi", "Mombasa", "Kisumu", "Nakuru", "Eldoret", "Malindi", "Thika", "Kitale", "Garissa", "Nyeri"]
+	},
+	{
+		"name": "Zimbabwe",
+		"leaderName": "Emmerson Mnangagwa",
+		"adjective": ["Zimbabwe"],
+		"startBias": ["Lakes","Jungle"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [53, 242, 60],
+		"innerColor": [12, 48, 13],
+		"uniqueName": "Great Zimbabwe Legacy",
+		"uniques":["[+3 Food] from every [Walls]","[+2 Food] from every [Medieval Walls]"],
+		"cities": ["Harare", "Bulawayo", "Mutare", "Gweru", "Masvingo", "Chinhoyi", "Kadoma", "Marondera", "Victoria Falls", "Bindura"]
+	},
+	{
+		"name": "Madagascar",
+		"leaderName": "Andry Rajoelina",
+		"adjective": ["Madagascar"],
+		"startBias": ["Atoll","Coast","Jungle","Plains"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [250, 223, 170],
+		"innerColor": [15, 14, 11],
+		"uniqueName": "Island Biodiversity",
+		"uniques":["[+3 Food] from every [Jungle]","[+2 Gold] from every [Harbor]"],
+		"cities": ["Antananarivo", "Toamasina", "Mahajanga", "Fianarantsoa", "Toliara", "Antsiranana", "Morondava", "Ambanja", "Manakara", "Ambositra"]
+	},
+	///// IMPORTANT ONES
+	{
+		"name": "Turkiye",
+		"leaderName": "Tayyip Erdoğan",
+		"adjective": ["Turkiye"],
+		"startBias": ["Coast","Plains","Mountain"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [176, 6, 0],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Ottoman Legacy",
+		"uniques":["[+2 Faith] from every [Temple]","[+2 Culture] from every [Temple]"],
+		"cities": ["Ankara", "Istanbul", "Izmir", "Bursa", "Adana", "Gaziantep", "Konya", "Antalya", "Diyarbakır", "Samsun"]
+	},
+	{
+		"name": "Poland",
+		"leaderName": "Donald Tusk",
+		"adjective": ["Poland"],
+		"startBias": ["Forest","Grassland"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [222, 0, 0],
+		"innerColor": [33, 1, 1],
+		"uniqueName": "Winged Hussars",
+		"uniques":["[+15]% Strength <for [Heavy Cavalry] units>","[+15]% Strength <for [Heavy Cavalry] units>","[+2 Production] from every [Horses]"],
+		"cities": ["Warsaw", "Kraków", "Wrocław", "Poznań", "Gdańsk", "Szczecin", "Lublin", "Katowice", "Białystok", "Łódź"]
+	},
+	{
+		"name": "Pakistan",
+		"leaderName": "Shehbaz Sharif",
+		"adjective": ["Pakistan"],
+		"startBias": ["Hill","Plains"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [106, 194, 81],
+		"innerColor": [19, 36, 15],
+		"uniqueName": "Indus Valley Heritage",
+		"uniques":["[+20]% Strength for cities","[+25]% Production when constructing [Faith] buildings [in all cities]"],
+		"cities": ["Islamabad", "Karachi", "Lahore", "Faisalabad", "Rawalpindi", "Multan", "Peshawar", "Quetta", "Sialkot", "Hyderabad"]
+	},
+	{
+		"name": "North Korea",
+		"leaderName": "Kim Jong-un",
+		"adjective": ["North Korea"],
+		"startBias": ["Tundra","Hill"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [46, 46, 46],
+		"innerColor": [181, 146, 100],
+		"uniqueName": "Juche Ideology",
+		"uniques":["[+25]% Production when constructing [Armored] units [in all cities]","[+20]% Production when constructing [Infantry] units [in all cities]"],
+		"cities": ["Pyongyang", "Hamhung", "Chongjin", "Nampo", "Wonsan", "Sinuiju", "Kaesong", "Haeju", "Rason", "Anju"]
+	},
+	{
+		"name": "South Korea",
+		"leaderName": "Yoon Suk-yeol",
+		"adjective": ["South Korea"],
+		"startBias": ["Forest","Grassland"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [255, 149, 74],
+		"innerColor": [207, 223, 255],
+		"uniqueName": "Tech Powerhouse",
+		"uniques":["[+30]% [Production]","[+20]% [Science]"],
+		"cities": ["Seoul", "Busan", "Incheon", "Daegu", "Daejeon", "Gwangju", "Ulsan", "Suwon", "Changwon", "Jeonju"]
+	},
+	{
+		"name": "Portugal",
+		"leaderName": "Luís Montenegro",
+		"adjective": ["Portugal"],
+		"startBias": ["Coast","Grassland"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [78, 120, 204],
+		"innerColor": [15, 23, 38],
+		"uniqueName": "Age of Exploration",
+		"uniques":["[+2 Gold] from each Trade Route","[+15]% Production when constructing [Water] units [in all cities]","[+10]% Golden Age length"],
+		"cities": ["Lisbon", "Porto", "Coimbra", "Braga", "Faro", "Aveiro", "Évora", "Funchal", "Setúbal", "Leiria"]
+	},
+	{
+		"name": "Ireland",
+		"leaderName": "Simon Harris",
+		"adjective": ["Ireland"],
+		"startBias": ["Forest","Coast"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+        "declaringWar": "With great reluctance, but with absolute resolve, we can no longer ignore the threats against our sovereignty. From this moment, we stand in defiance and prepare for battle","attacked": "This act of aggression will not go unanswered. If my country believes we will cower, they gravely underestimate our determination.","defeated": "Though we may falter today, our spirit is unbroken. The future still belongs to us, and we will rise again stronger than before.","introduction": "I am representing my great nation. Our people stand strong, our ambitions are high, and our commitment to progress is unwavering","hateHello": "Let's not pretend we both know there's no goodwill between us. So, let's get to the point.","tradeRequest": "A prosperous future is built on partnership. Let's discuss terms that benefit both of our nations.",
+
+		"outerColor": [35, 250, 85],
+		"innerColor": [2, 13, 4],
+		"uniqueName": "Celtic Resilience",
+		"uniques":["[+25]% Production when constructing [Culture] buildings [in all cities]","[+2 Food] from every [Potato]"],
+		"cities": ["Dublin", "Cork", "Limerick", "Galway", "Waterford", "Kilkenny", "Sligo", "Wexford", "Drogheda", "Dundalk"]
+	},
 ]
